@@ -57,5 +57,5 @@ Il vous faudra aussi modifier le fichier */etc/php/7.0/fpm/pool.d/www.conf* pour
 listen = 127.0.0.1:9000
 ```
 
-
+Article qui m'a aidé à réaliser les premières étapes : https://blog.seboss666.info/2014/11/passer-de-mod-php5-a-php-fpm-avec-apache/
 
