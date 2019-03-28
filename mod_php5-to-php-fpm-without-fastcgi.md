@@ -9,7 +9,7 @@ sur de nombreux tutoriels ma version de php5-fpm.
 Pour se faire il faut au final, installer php5-fpm et activer mod_proxy_fgci (ou l'installer si pas présent, mais normalement il l'est).
 Il faudra aussi désactiver le mod_php5
 
-````bash
+```bash
 # installation
 sudo apt-get install php5-fpm
 
